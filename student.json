@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Abebe",
+    "age": 34,
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "name": "Kebede",
+    "age": 34,
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "name": "Tola",
+    "age": 34,
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "name": "Shemsu",
+    "age": 34,
+    "department": "IT",
+    "isActive": true
+  }
+]
