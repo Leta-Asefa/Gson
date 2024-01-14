@@ -15,11 +15,11 @@ import com.google.gson.reflect.TypeToken;
 public class Main {
 
 	public static void main(String[] args) {
-		List<Student> students=Arrays.asList(new Student("Tigist",34,"IT",true),
-											new Student("Sol",34,"IT",true),
-											new Student("Matiyas",34,"IT",true),
-											new Student("Selam",34,"IT",true),
-											new Student("Beka",34,"IT",true));		
+		List<Student> students=Arrays.asList(	new Student("Tigist",34,"IT",true),
+							new Student("Sol",34,"IT",true),
+							new Student("Matiyas",34,"IT",true),
+							new Student("Selam",34,"IT",true),
+							new Student("Beka",34,"IT",true));		
 		
 
 		
